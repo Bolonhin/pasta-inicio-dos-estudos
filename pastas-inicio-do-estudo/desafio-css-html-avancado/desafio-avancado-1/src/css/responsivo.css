@@ -1,0 +1,39 @@
+@media (max-width: 800px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .logo {
+    margin: auto;
+  }
+  .logo a h1 {
+    font-size: 40px;
+  }
+  .menu ul,
+  .menu {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  }
+  .logo a {
+    margin-top: 44px;
+    margin-bottom: 100px;
+  }
+  .menu ul li a {
+    font-size: 40px;
+    line-height: 47px;
+
+  }
+  .bt {
+    width: 127px;
+    height: 39px;
+    margin-top: 63px;
+    margin-bottom: 84px;
+  }
+  .menu ul li {
+   margin-top: 50px;
+
+  }
+
+}

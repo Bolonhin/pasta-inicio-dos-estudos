@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: rgb(255, 245, 231);
+}
+.cabecalho-Moda th {
+  background-color: #bb86fc;
+  color: #fff;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  text-align: center;
+}
+.cabecalho-Casa th {
+  background-color: #00c4b4;
+  color: #fff;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  text-align: center;
+}
+.itens td {
+  background-color: #424250;
+  color: rgb(212, 212, 212);
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+}
+table {
+  margin-right: auto;
+  margin-left: auto;
+}
